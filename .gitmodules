@@ -1,0 +1,3 @@
+[submodule "HugScanner"]
+	path = HugScanner
+	url = https://huggingface.co/spaces/MaggeSN/HugScanner
